@@ -1,0 +1,2 @@
+1            istanbul              123123               Hakan               Altan              120000            Yonetici
+2              Ankara              ankara                Ayse              Sancak              125000            Yonetici
